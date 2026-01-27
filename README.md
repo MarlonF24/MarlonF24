@@ -1,6 +1,6 @@
 # Hi, I'm Marlon Fendler
 
-**Data Science & AI Student @ Leiden University (LIACS)** & KHMW Young Talent Award Recipient.*
+**Data Science & AI Student @ Leiden University (LIACS)** & *KHMW Young Talent Award Recipient.*
 
 ---
 
