@@ -21,7 +21,7 @@
 ### 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-fendler-040071302/) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:marlon.fendler24@gmail.com)
+[![Email](https://img.shields.io/badge/Email-marlon.fendler24@gmail.com-white?style=flat&logo=gmail&logoColor=white&labelColor=D14836)](mailto:marlon.fendler24@gmail.com)
 <!--
 **MarlonF24/MarlonF24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
