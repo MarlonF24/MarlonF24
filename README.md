@@ -12,7 +12,7 @@
 
 ### 🚀 Featured Projects
 
-* **[Battleships](https://github.com/MarlonF24/battleships):** A real-time, full-stack web-app to play battleships with your friends.
+* **[Battleships](https://github.com/MarlonF24/battleships):** A real-time, full-stack web-app to [play](https://battleships-app-marlon-31537f00.koyeb.app/) battleships.
 * **[Simulation Game](https://github.com/MarlonF24/simulation_game):** University Project. A full-stack simulation of agents (rabbits & wolves) in a grid environment.
 * **[Sightreading AI](https://github.com/MarlonF24/sightreading_ai):** A machine learning pipeline using a transformer model to generate piano exercises.
 
