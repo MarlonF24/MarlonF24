@@ -15,7 +15,7 @@
 * **[Battleships](https://github.com/MarlonF24/battleships):** A real-time, full-stack web-app to [play](https://battleships-app-marlon-31537f00.koyeb.app/) battleships.
 * **[Simulation Game](https://github.com/MarlonF24/simulation_game):** University Project. A full-stack simulation of agents in a grid environment.
 * **[Sightreading AI](https://github.com/MarlonF24/sightreading_ai):** A machine learning pipeline using a transformer model to generate piano exercises.
-
+* **[Backpropagation](https://github.com/MarlonF24/Backpropagation):** A feedforward neural network with backpropagation using only numpy.
 ---
 
 ### 📫 Connect with me
